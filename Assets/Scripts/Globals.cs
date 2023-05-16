@@ -10,6 +10,8 @@ public static class Globals
 {
     public static MusicManager MusicManager;
     public static SoundManager SoundManager;
+
+    public static OverworldPlayerController Player;
     
     public static readonly string SaveDataPath = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "/Ace Attorney Maker";
 

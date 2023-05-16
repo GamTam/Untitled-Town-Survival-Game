@@ -1,0 +1,113 @@
+Song Name	Intro Point	Loop Point	Redirect Name
+
+#Defendant's Lobby
+Lobby	2.396	35.993
+Lobby_JFA	5.086	43.488
+
+#Court Theme
+Court	10.536	58.533
+Court_JFA	1.797839	49.798245
+Court_TT	0.908074	64.592703
+Court_AJAA	8.160	63.028572
+Court_AAI	2.316169	94.638039
+Court_GAA	1.122932	91.852718
+
+#Cross Examination - Moderato
+CrossEx	0.715	46.427
+CrossEx_JFA	3.385	42.567
+CrossEx_TT	1.473	96.886
+CrossEx_AJAA	1.353	35.720
+CrossEx_AAI	2.784502	98.398962
+CrossEx_GAA	4.111	63.028
+
+#Cross Examination - Allegro
+CrossExFast	1.341	58.656445
+CrossExFast_JFA	2.998	47.572
+CrossExFast_TT	1.385	75.229
+CrossExFast_AJAA	0.938	46.389
+CrossExFast_AAI	1.048297	87.838335
+CrossExFast_GAA	11.635342	82.955029
+
+#Logic and Tricks
+Explain	2.176	71.994
+Explain_JFA	1.274	49.277
+
+#Objection
+Objection	24.5	48.505
+
+#Pursuit ~ Cornered
+Pursuit	7.799	46.198
+Pursuit_JFA	6.406	38.403
+Pursuit_TT	6.486	60.001
+Pursuit_AJAA	7.917	53.322
+Pursuit_AAI	9.017034	101.930919
+Pursuit_GAA	7.459103	94.977778
+
+#Pursuit ~ Cornered - Variation
+PursuitVariation	2.218	40.618
+PursuitVariation_JFA	6.406	38.403
+PursuitVariation_TT	1.340	54.855
+PursuitVariation_AJAA	3.052	48.463
+PursuitVariation_GAA	8.105	63.483
+
+#Suspense
+Suspense	7.928590	35.357207
+Suspense_GAA	29.085884	91.698559
+
+#The Truth Revealed
+Twist	1.328	34.662
+Twist_JFA	0	-1
+Twist_TT	3.941748	60.608409
+Twist_AJAA	0.586666	48.305567
+Twist_AAI	2.676192	70.696001
+Twist_GAA	24.974315	116.557762
+
+#Heart of the Investigation
+TwistInvestigation	5.496000	57.495433
+
+#Won the Lawsuit
+Win	1.537	50.771
+
+#Detention Center
+DetentionCenter	13.705	61.71
+
+#Investigation
+Explore	2.397	50.388
+
+#Maya
+Maya	0.284	74.128
+Maya_JFA	0	-1
+Maya_TT			Maya_JFA
+
+#Psyche Lock
+PsycheLock	11.698331	40.966546
+
+#Only one version
+Gumshoe	0.270	54.821
+Opening	0	-1
+Ringtone	0.552	19.411
+SteelSamurai	3.209	56.352
+Title	8.867086	75.649933
+VonKarma	12.871	46.558
+HotlineOfFate	4.037	23.237
+Edgeworth	13.451	46.843
+SteelSamuraiSlow	3.193	63.790
+Godot	6.126695	73.732544
+Gant	16.029770	67.956717
+Atmey	12.535932	52.533341
+Sahdmadi	1.607904	93.179898
+Stronghart	10.875473	97.031946
+Shamspeare	5.251685	56.020129
+Kay	3.562583	71.134837
+DL6	0	-1
+Ema	1.140446	49.140854
+Courtney	0	-1
+
+#Not From Ace Attorney
+Pursuit_AJAA_Rock	3.539712	155.032942
+PursuitOrchestra	4.613781	129.393121
+PursuitBigShot	0	-1
+Eminem	0	-1
+Saul	0	-1
+Jena	1.732311	164.859664
+HarrysGame	4.159509	150.517551
